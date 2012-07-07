@@ -4,7 +4,7 @@
   <title><![CDATA[luoyangylh's Blog]]></title>
   <link href="http://luoyangylh.github.com/atom.xml" rel="self"/>
   <link href="http://luoyangylh.github.com/"/>
-  <updated>2012-07-07T23:29:08+08:00</updated>
+  <updated>2012-07-07T23:35:47+08:00</updated>
   <id>http://luoyangylh.github.com/</id>
   <author>
     <name><![CDATA[luoyangylh]]></name>
@@ -18,7 +18,9 @@
     <link href="http://luoyangylh.github.com/blog/2012/07/07/first-blog/"/>
     <updated>2012-07-07T23:15:00+08:00</updated>
     <id>http://luoyangylh.github.com/blog/2012/07/07/first-blog</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>This is my first blog.</p>
+
+<p>Hello everyone!</p>
 ]]></content>
   </entry>
   
