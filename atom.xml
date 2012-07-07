@@ -4,7 +4,7 @@
   <title><![CDATA[luoyangylh's Blog]]></title>
   <link href="http://luoyangylh.github.com/atom.xml" rel="self"/>
   <link href="http://luoyangylh.github.com/"/>
-  <updated>2012-07-07T10:01:21+08:00</updated>
+  <updated>2012-07-07T23:29:08+08:00</updated>
   <id>http://luoyangylh.github.com/</id>
   <author>
     <name><![CDATA[luoyangylh]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[first blog]]></title>
+    <link href="http://luoyangylh.github.com/blog/2012/07/07/first-blog/"/>
+    <updated>2012-07-07T23:15:00+08:00</updated>
+    <id>http://luoyangylh.github.com/blog/2012/07/07/first-blog</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
